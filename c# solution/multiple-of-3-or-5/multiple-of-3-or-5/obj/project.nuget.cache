@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lELXpYBeYteTXBBjBER6yiizV2D6g/rCNAHGH6b3rnX/n/yGyosIvSV89xs+aQF5Z97Kq9AYVr3NbyCJkOJ42g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jai\\Desktop\\Work\\git\\multiples-of-3-or-5\\c# solution\\multiple-of-3-or-5\\multiple-of-3-or-5\\multiple-of-3-or-5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jai\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\bin\Debug\net5.0\multiple-of-3-or-5.exe
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\bin\Debug\net5.0\multiple-of-3-or-5.deps.json
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\bin\Debug\net5.0\multiple-of-3-or-5.runtimeconfig.json
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\bin\Debug\net5.0\multiple-of-3-or-5.runtimeconfig.dev.json
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\bin\Debug\net5.0\multiple-of-3-or-5.dll
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\bin\Debug\net5.0\ref\multiple-of-3-or-5.dll
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\bin\Debug\net5.0\multiple-of-3-or-5.pdb
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\obj\Debug\net5.0\multiple-of-3-or-5.csproj.AssemblyReference.cache
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\obj\Debug\net5.0\multiple-of-3-or-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\obj\Debug\net5.0\multiple-of-3-or-5.AssemblyInfoInputs.cache
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\obj\Debug\net5.0\multiple-of-3-or-5.AssemblyInfo.cs
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\obj\Debug\net5.0\multiple-of-3-or-5.csproj.CoreCompileInputs.cache
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\obj\Debug\net5.0\multiple-of-3-or-5.dll
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\obj\Debug\net5.0\ref\multiple-of-3-or-5.dll
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\obj\Debug\net5.0\multiple-of-3-or-5.pdb
+C:\Users\Jai\Desktop\Work\git\multiples-of-3-or-5\c# solution\multiple-of-3-or-5\multiple-of-3-or-5\obj\Debug\net5.0\multiple-of-3-or-5.genruntimeconfig.cache
